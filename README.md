@@ -45,7 +45,7 @@ Enhanced data-driven decision making
 📸 Screenshot / Demo
 This section provides a preview of the Pizza Sales Dashboard.
 ### Dashboard Preview  
-[Pizza Sales Dashboard]()
+[Pizza Sales Dashboard](https://github.com/GarimaSharma1808/Pizza-s-Sales-Analysis-Dashboard-/blob/main/Pizza's%20sales%20Dashboard.png)
 
 
 
