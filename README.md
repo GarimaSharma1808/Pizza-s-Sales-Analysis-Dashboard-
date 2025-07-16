@@ -42,6 +42,10 @@ Improved insight into top-performing products
 Better inventory planning and promotion strategy
 Enhanced data-driven decision making
 
+📸 Screenshot / Demo
+This section provides a preview of the Pizza Sales Dashboard.
+### Dashboard Preview  
+[Pizza Sales Dashboard]()
 
 
 
